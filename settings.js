@@ -6,16 +6,16 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "drakonis~NiUmUDrZ#PKhfXnYDi1XiJl4tkgg_NJ3apUbOo3JXGYb-miFFO5A",
     // add your Session Id make sure it starts with suho~
 
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀-𝐌𝐃",
     // add bot name here for menu
 
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     // make bot public-private-inbox-group 
 
     LINK_WHITELIST: "youtube.com,github.com",
@@ -64,7 +64,7 @@ module.exports = {
 > ɢɪᴛʜᴜʙ : github.com/NaCkS-ai/SungSu-ho-MD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀-𝐌𝐃",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -73,13 +73,13 @@ module.exports = {
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
     // choose custom react emojis by yourself 
 
-    DELETE_LINKS: process.env.DELETE_LINKS || "false",
+    DELETE_LINKS: process.env.DELETE_LINKS || "true",
     // automatic delete links without removing member 
 
     OWNER_NUMBER: process.env.OWNER_NUMBER || "27813374457",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ sᴜɴɢ",
+    OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀",
     // add bot owner name
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sᴜɴɢ sᴜʜᴏ*",
@@ -91,19 +91,19 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "false",
     // make this true or false for auto react on all msgs
 
-    ANTI_BAD: process.env.ANTI_BAD || "false",
+    ANTI_BAD: process.env.ANTI_BAD || "true",
     // false or true for anti bad words  
 
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     // make anti link true,false for groups 
 
-    AUTO_STICKER: process.env.AUTO_STICKER || "false",
+    AUTO_STICKER: process.env.AUTO_STICKER || "true",
     // make true for automatic stickers 
 
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     // make true or false automatic text reply 
 
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     // make true for always online 
 
     PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
