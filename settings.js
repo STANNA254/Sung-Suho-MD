@@ -12,10 +12,10 @@ module.exports = {
     PREFIX: process.env.PREFIX || ".",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀-𝐌𝐃",
     // add bot name here for menu
 
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     // make bot public-private-inbox-group 
 
     LINK_WHITELIST: "youtube.com,github.com",
@@ -64,7 +64,7 @@ module.exports = {
 > ɢɪᴛʜᴜʙ : github.com/NaCkS-ai/SungSu-ho-MD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -79,10 +79,10 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "27813374457",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ sᴜɴɢ",
+    OWNER_NAME: process.env.OWNER_NAME || "𝐆𝐎𝐕𝐀𝐍𝐀",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sᴜɴɢ sᴜʜᴏ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐆𝐎𝐕𝐀𝐍𝐀*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -97,13 +97,13 @@ module.exports = {
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     // make anti link true,false for groups 
 
-    AUTO_STICKER: process.env.AUTO_STICKER || "false",
+    AUTO_STICKER: process.env.AUTO_STICKER || "ture",
     // make true for automatic stickers 
 
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     // make true or false automatic text reply 
 
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     // make true for always online 
 
     PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
